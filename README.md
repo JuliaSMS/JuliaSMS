@@ -1,7 +1,7 @@
 <!-- HEADER -->
-<h1 align="center">Júlia Stefany 👩‍💻</h1>
+<h1 align="center">Júlia Stefany — Backend • AI • Data-Driven Systems 👩‍💻</h1>
 <p align="center">
-  Backend • Inteligência Artificial • Sistemas Data-Driven
+  Construindo sistemas inteligentes com IA, APIs e dados
 </p>
 
 ---
@@ -19,7 +19,7 @@ Atuo desenvolvendo soluções que conectam **dados, lógica de negócio e IA**, 
 
 I am a developer focused on **backend, API integrations and applied artificial intelligence**, with experience building complete and functional systems.
 
-I work developing solutions that connect **data, business logic and AI**, focusing on performance, scalability and real-world usage.
+I develop solutions that connect **data, business logic and AI**, focusing on performance, scalability and real-world usage.
 
 </details>
 
@@ -47,7 +47,7 @@ I work developing solutions that connect **data, business logic and AI**, focusi
 
 ### 🛠️ Ferramentas & Arquitetura
 - Git / GitHub / GitLab
-- CI/CD
+- CI/CD (GitLab CI/CD, pipelines automatizados)
 - Metodologias ágeis (Scrum)
 - Arquitetura SOLID
 
@@ -76,7 +76,7 @@ I work developing solutions that connect **data, business logic and AI**, focusi
 
 ### 🛠️ Tools & Architecture
 - Git / GitHub / GitLab
-- CI/CD
+- CI/CD (automated pipelines)
 - Agile methodologies (Scrum)
 - SOLID architecture
 
@@ -84,30 +84,50 @@ I work developing solutions that connect **data, business logic and AI**, focusi
 
 ---
 
-## 🚀 Experiência
+## 🧠 Como eu desenvolvo sistemas
 
-### 💼 Desenvolvimento Fullstack
+Mais do que usar tecnologia, foco em construir soluções completas e funcionais.
 
-- Desenvolvimento de sistemas completos (frontend + backend)
-- Integração com APIs e bancos de dados
-- Correção de bugs e otimização de performance
-- Aplicação de IA com OpenAI e automações
-- Atuação com metodologias ágeis
+- 📊 Estruturação e modelagem eficiente de dados  
+- 🔗 Desenvolvimento de APIs escaláveis  
+- 🤖 Integração de IA para automação e tomada de decisão  
+- ⚡ Otimização de performance  
+- 🧩 Pensamento orientado a produto  
+
+Conecto **backend + dados + IA** para criar sistemas aplicáveis no mundo real.
 
 ---
 
 <details>
-  <summary>🌎 Experience (English)</summary>
+  <summary>🌎 How I build systems</summary>
 
-### 💼 Fullstack Development
+I focus on building complete and functional systems, not just writing code.
 
-- Full system development (frontend + backend)
-- API and database integration
-- Bug fixing and performance optimization
-- AI integration using OpenAI and automation
-- Agile methodologies
+- 📊 Data modeling and structuring  
+- 🔗 Scalable API development  
+- 🤖 AI integration for automation and decision-making  
+- ⚡ Performance optimization  
+- 🧩 Product-oriented thinking  
+
+I connect **backend + data + AI** to build real-world solutions.
 
 </details>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🤖 AI RAG E-commerce Assistant
+Sistema com arquitetura RAG utilizando FAISS, embeddings e LLM para responder perguntas com base em dados reais.
+
+### 💬 Telegram AI Creative Assistant
+Bot inteligente com geração de texto, imagem e vídeo via IA, com controle de uso e integração com banco de dados.
+
+### 🛒 AI Product Management System
+Sistema fullstack com CRUD e assistente inteligente capaz de responder perguntas sobre os dados cadastrados.
+
+### 🔐 SafeData LGPD API
+API para gerenciamento seguro de dados pessoais com autenticação por token e controle de consentimento.
 
 ---
 
@@ -127,6 +147,29 @@ I work developing solutions that connect **data, business logic and AI**, focusi
 - Strong integration between backend + data + AI
 - Ability to build complete solutions
 - Product-oriented and scalability mindset
+
+</details>
+
+---
+
+## 💫 Início da minha jornada
+
+### 🎮 JogoGenius
+
+Meu primeiro projeto em C#, um jogo de memória baseado em cores.
+
+💡 Esse projeto marcou o início da minha trajetória como desenvolvedora.
+
+---
+
+<details>
+  <summary>🌎 First project (English)</summary>
+
+### 🎮 JogoGenius
+
+My first project built with C#, a color-based memory game.
+
+💡 This project represents the beginning of my journey as a developer.
 
 </details>
 
