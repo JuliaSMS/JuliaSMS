@@ -1,204 +1,371 @@
 <!-- HEADER -->
-<h1 align="center">Júlia Stefany — Backend • AI • Data-Driven Systems 👩‍💻</h1>
+
+<h1 align="center">Júlia Stefany — Software Engineer | Python | Backend | AI 🤖</h1>
+
 <p align="center">
-  Construindo sistemas inteligentes com IA, APIs e dados
+  <strong>Backend • Artificial Intelligence • Machine Learning • APIs • Data</strong>
+</p>
+
+<p align="center">
+  Construindo sistemas inteligentes, APIs e soluções orientadas a dados com Python.
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 👩‍💻 Sobre mim
 
-Sou desenvolvedora com foco em **backend, integração de APIs e inteligência artificial aplicada**, com experiência na construção de sistemas completos e funcionais.
+Sou **Software Engineer focada em Python, Backend Development e Inteligência Artificial**, com experiência no desenvolvimento de sistemas, APIs, integrações e soluções orientadas a dados.
 
-Atuo desenvolvendo soluções que conectam **dados, lógica de negócio e IA**, com foco em performance, escalabilidade e uso real.
+Atuo desde a construção da aplicação e modelagem de dados até **integrações com IA, automações, deploy e manutenção de sistemas em produção**.
+
+Meu foco está em transformar problemas reais em soluções de software utilizando:
+
+* 🐍 Python e desenvolvimento backend
+* 🔗 APIs REST e integrações entre sistemas
+* 🤖 LLMs, RAG e aplicações de Inteligência Artificial
+* 🧠 Machine Learning e processamento de dados
+* 🗄️ Bancos de dados relacionais e soluções de dados
+* ⚙️ Docker, CI/CD e ambientes Linux
+* 🔄 Automação de processos com Python e n8n
+
+Gosto de trabalhar na interseção entre **software, dados e inteligência artificial**, buscando construir soluções que realmente possam ser utilizadas em produção.
 
 ---
 
 <details>
-  <summary>🌎 View in English</summary>
+<summary>🌎 View in English</summary>
 
-I am a developer focused on **backend, API integrations and applied artificial intelligence**, with experience building complete and functional systems.
+## 👩‍💻 About me
 
-I develop solutions that connect **data, business logic and AI**, focusing on performance, scalability and real-world usage.
+I am a **Software Engineer focused on Python, Backend Development and Artificial Intelligence**, with experience building systems, APIs, integrations and data-driven solutions.
+
+I work across different stages of software development, from application and database design to **AI integrations, automation, deployment and production system maintenance**.
+
+My main areas of interest include:
+
+* 🐍 Python and backend development
+* 🔗 REST APIs and system integrations
+* 🤖 LLMs, RAG and AI applications
+* 🧠 Machine Learning and data processing
+* 🗄️ Relational databases and data solutions
+* ⚙️ Docker, CI/CD and Linux environments
+* 🔄 Process automation with Python and n8n
+
+I enjoy working at the intersection of **software engineering, data and artificial intelligence**, building solutions designed for real-world use.
 
 </details>
 
 ---
 
-## ⚙️ Conhecimentos Técnicos
+## 🧩 Technical Skills
 
-### 🧩 Backend & Dados
-- Python (Flask, FastAPI)
-- APIs REST
-- SQL (PostgreSQL, SQLite, SQLAlchemy)
-- ETL e processamento de dados
-- Modelagem de banco de dados
+### 🐍 Backend & Software Engineering
 
-### 🤖 Inteligência Artificial
-- Integração com LLMs (OpenAI)
-- Engenharia de prompt
-- Automação com IA
-- Aplicação de IA em sistemas reais
+* Python
+* FastAPI
+* Flask
+* Django
+* REST APIs
+* SQLAlchemy
+* Clean Architecture
+* SOLID
+* Authentication & Authorization
+* API integrations
+* Backend system development
 
-### 🎨 Frontend
-- React / Next.js
-- JavaScript / TypeScript
-- HTML5 / CSS3
+### 🤖 Artificial Intelligence & Machine Learning
 
-### 🛠️ Ferramentas & Arquitetura
-- Git / GitHub / GitLab
-- CI/CD (GitLab CI/CD, pipelines automatizados)
-- Metodologias ágeis (Scrum)
-- Arquitetura SOLID
+* LLM Integration
+* OpenAI API
+* Prompt Engineering
+* RAG (Retrieval-Augmented Generation)
+* Embeddings
+* Vector Search
+* AI Agents
+* Multi-Agent Systems
+* AI Automation
+* Machine Learning
+* Data Processing
+* MLflow
+
+### 🗄️ Databases & Data
+
+* PostgreSQL
+* MySQL
+* SQLite
+* Supabase
+* Firebird
+* SQL
+* SQLAlchemy
+* Database Modeling
+* ETL
+* Data Processing
+* Pentaho
+
+### 🌐 Frontend & Full Stack
+
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Node.js
+* HTML5
+* CSS3
+
+### ⚙️ DevOps, Infrastructure & Tools
+
+* Docker
+* Linux / Ubuntu
+* Git
+* GitHub
+* GitLab
+* GitLab CI/CD
+* CI/CD Pipelines
+* VPS
+* Deployment & Production Maintenance
+* Hostinger
+* Bitvise
+* DBeaver
+* VS Code
+* PyCharm
+* Visual Studio
+
+### 🔄 Automation
+
+* n8n
+* Workflow Automation
+* API Integrations
+* AI-powered workflows
+* Process Automation
 
 ---
 
 <details>
-  <summary>🌎 Technical Skills (English)</summary>
+<summary>🌎 Technical Skills — English</summary>
 
-### 🧩 Backend & Data
-- Python (Flask, FastAPI)
-- REST APIs
-- SQL (PostgreSQL, SQLite, SQLAlchemy)
-- ETL & data processing
-- Database modeling
+### 🐍 Backend & Software Engineering
 
-### 🤖 Artificial Intelligence
-- LLM integration (OpenAI)
-- Prompt engineering
-- AI automation
-- Real-world AI applications
+* Python
+* FastAPI
+* Flask
+* Django
+* REST APIs
+* SQLAlchemy
+* Clean Architecture
+* SOLID
+* Authentication & Authorization
+* API integrations
+* Backend system development
 
-### 🎨 Frontend
-- React / Next.js
-- JavaScript / TypeScript
-- HTML5 / CSS3
+### 🤖 Artificial Intelligence & Machine Learning
 
-### 🛠️ Tools & Architecture
-- Git / GitHub / GitLab
-- CI/CD (automated pipelines)
-- Agile methodologies (Scrum)
-- SOLID architecture
+* LLM Integration
+* OpenAI API
+* Prompt Engineering
+* RAG (Retrieval-Augmented Generation)
+* Embeddings
+* Vector Search
+* AI Agents
+* Multi-Agent Systems
+* AI Automation
+* Machine Learning
+* Data Processing
+* MLflow
+
+### 🗄️ Databases & Data
+
+* PostgreSQL
+* MySQL
+* SQLite
+* Supabase
+* Firebird
+* SQL
+* Database Modeling
+* ETL
+* Data Processing
+* Pentaho
+
+### 🌐 Frontend & Full Stack
+
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Node.js
+* HTML5
+* CSS3
+
+### ⚙️ DevOps, Infrastructure & Tools
+
+* Docker
+* Linux / Ubuntu
+* Git
+* GitHub
+* GitLab
+* GitLab CI/CD
+* CI/CD Pipelines
+* VPS
+* Deployment & Production Maintenance
+
+### 🔄 Automation
+
+* n8n
+* Workflow Automation
+* API Integrations
+* AI-powered workflows
+* Process Automation
 
 </details>
 
 ---
 
-## 🧠 Como eu desenvolvo sistemas
+## 🏗️ What I Build
 
-Mais do que usar tecnologia, foco em construir soluções completas e funcionais.
+I focus on building **end-to-end software solutions**, connecting application logic, data, infrastructure and artificial intelligence.
 
-- 📊 Estruturação e modelagem eficiente de dados  
-- 🔗 Desenvolvimento de APIs escaláveis  
-- 🤖 Integração de IA para automação e tomada de decisão  
-- ⚡ Otimização de performance  
-- 🧩 Pensamento orientado a produto  
+### 🔗 Backend & APIs
 
-Conecto **backend + dados + IA** para criar sistemas aplicáveis no mundo real.
+Design and development of backend applications and REST APIs using Python, FastAPI and Flask.
 
----
+### 🤖 AI Applications
 
-<details>
-  <summary>🌎 How I build systems</summary>
+Integration of LLMs and AI capabilities into software products, including RAG pipelines, AI agents, embeddings and automated workflows.
 
-I focus on building complete and functional systems, not just writing code.
+### 🧠 Data & Machine Learning
 
-- 📊 Data modeling and structuring  
-- 🔗 Scalable API development  
-- 🤖 AI integration for automation and decision-making  
-- ⚡ Performance optimization  
-- 🧩 Product-oriented thinking  
+Data processing, database modeling and development of solutions that use structured data and Machine Learning techniques.
 
-I connect **backend + data + AI** to build real-world solutions.
+### ⚙️ Production Systems
 
-</details>
+Deployment, troubleshooting and maintenance of applications using Docker, Linux, VPS environments and CI/CD pipelines.
+
+### 🔄 Intelligent Automation
+
+Automation of repetitive processes and business workflows using Python, APIs, n8n and AI.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 🤖 AI RAG E-commerce Assistant
-Sistema com arquitetura RAG utilizando FAISS, embeddings e LLM para responder perguntas com base em dados reais.
+
+AI-powered e-commerce assistant using **RAG architecture**, embeddings, vector search and LLMs to retrieve relevant product information and generate contextual responses.
+
+**Stack:** Python • RAG • Embeddings • FAISS • LLM • APIs
+
+---
 
 ### 💬 Telegram AI Creative Assistant
-Bot inteligente com geração de texto, imagem e vídeo via IA, com controle de uso e integração com banco de dados.
+
+AI-powered Telegram assistant capable of interacting with users and generating different types of content through AI services.
+
+Includes usage control, database integration and automated workflows.
+
+**Stack:** Python • Telegram API • OpenAI • Database • AI Automation
+
+---
 
 ### 🛒 AI Product Management System
-Sistema fullstack com CRUD e assistente inteligente capaz de responder perguntas sobre os dados cadastrados.
 
-### 🔐 SafeData LGPD API
-API para gerenciamento seguro de dados pessoais com autenticação por token e controle de consentimento.
+Full-stack product management platform with CRUD operations and an AI assistant capable of querying and interpreting information stored in the application's database.
 
----
-
-## 💡 Diferenciais
-
-- Experiência prática com sistemas reais (não apenas estudos)
-- Forte integração entre backend + dados + IA
-- Capacidade de desenvolver soluções completas
-- Pensamento voltado para produto e escalabilidade
+**Stack:** Python • API • SQL • AI • React
 
 ---
 
-<details>
-  <summary>🌎 Highlights (English)</summary>
+### 🔐 SafeData — LGPD API
 
-- Real-world system experience (not just academic projects)
-- Strong integration between backend + data + AI
-- Ability to build complete solutions
-- Product-oriented and scalability mindset
+Backend API designed for secure personal-data management, including authentication, authorization and consent management.
 
-</details>
+**Stack:** Python • REST API • Authentication • SQL • Security
 
 ---
 
-## 💫 Início da minha jornada
+## 🔬 Currently Exploring
+
+I'm continuously expanding my work in:
+
+* 🧠 Machine Learning
+* 🤖 AI Agents & Multi-Agent Systems
+* 📚 RAG architectures
+* 🔎 Vector databases & semantic search
+* 🔌 MCP (Model Context Protocol)
+* ⚙️ AI-powered automation
+* 📊 Data-driven systems
+* ☁️ Cloud & scalable backend architectures
+* 🚀 Production-ready AI systems
+
+---
+
+## 💡 Engineering Approach
+
+I believe good software is more than code.
+
+My approach combines:
+
+**Problem → Architecture → Data → Backend → AI → Automation → Deployment**
+
+I focus on understanding the problem first, choosing the appropriate technology and building solutions that are **maintainable, observable and useful in real-world scenarios**.
+
+---
+
+## 📈 My Development Journey
 
 ### 🎮 JogoGenius
 
-Meu primeiro projeto em C#, um jogo de memória baseado em cores.
+My first project built with C# — a color-based memory game.
 
-💡 Esse projeto marcou o início da minha trajetória como desenvolvedora.
-
----
-
-<details>
-  <summary>🌎 First project (English)</summary>
-
-### 🎮 JogoGenius
-
-My first project built with C#, a color-based memory game.
-
-💡 This project represents the beginning of my journey as a developer.
-
-</details>
+It represents the beginning of my journey in software development and the foundation that led me toward backend engineering and AI.
 
 ---
 
 ## 💬
 
-> Desenvolvimento não é só código — é resolver problemas com inteligência.
+> **I don't just build software. I build systems that turn data and intelligence into useful solutions.**
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Technologies
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Software Engineering • Backend • AI • Data</strong>
+</p>
+
+<p align="center">
+  Building technology with Python, intelligence and purpose. 🚀
 </p>
